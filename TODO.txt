@@ -1,0 +1,3 @@
+Week 2: Explain about resolutions and player size in Unity vs itch.
+Week 8: Show a finite-state machine.
+
