@@ -1,3 +1,12 @@
+Week 1: task - what makes a game fun? addictive?
 Week 2: Explain about resolutions and player size in Unity vs itch.
-Week 8: Show a finite-state machine.
+Week 4: Teach about Canvas / UI.
+Week 8: Program a finite-state machine.
+Week 9-10: Give a task to write a tutorial to yourgame.
+Week 11: FTUE (First Time User Experience), "On-boarding", Retention (after 1 / 7 / 28 days).
+Week 11: Write feedback in the comments in itch.io
+Week 12: Writing a game for mobile.
+MAYBE: grading by existing members
+
+
 
