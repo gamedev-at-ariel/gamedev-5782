@@ -25,6 +25,7 @@
 * [האוניברסיטה הפתוחה - עיצוב ופיתוח משחקי מחשב ווידאו](https://www.openu.ac.il/hasifa/game-design.html) - 512 שעות לימוד ו-140 שעות תירגול.
 * [מכללת שנקר – עיצוב ופיתוח משחקי מחשב וסלולר](https://ext.shenkar.ac.il/courses/75)
 * [המכללה הישראלית לאנימציה ועיצוב – גיימינג - פיתוח ועיצוב משחקי מחשב](https://www.ani-mator.com/courses/game-design/) - 100 שיעורים במשך 5 סמסטרים.
+* [Hands On Games](https://www.handsongames.net/) - בית-ספר לעיצוב משחקי מחשב ומשחקים פיסיים.
 
 
 קורסים בחו"ל
