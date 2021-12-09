@@ -6,6 +6,10 @@
 
 td {vertical-align: middle}
 
+/* body {
+    font-size:10px;
+} */
+
 .firstslide {  text-align:center; vertical-align: middle; font-size:larger; }
 
 h1 {  color: var(--green);  }
@@ -15,7 +19,7 @@ h3 {  color: var(--green);  }
 .red   { color: var(--red); }
 .green { color: var(--green); }
 .blue  { color: var(--blue); }
-.italic { text-style: italic; }
+.italic { font-style: italic; }
 
 a.secret {color:black; font-size:small}
 a.secret:hover {color:yellow}
